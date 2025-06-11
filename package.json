@@ -1,0 +1,8 @@
+{
+  "name": "chatgpt-paysurity-platform",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
